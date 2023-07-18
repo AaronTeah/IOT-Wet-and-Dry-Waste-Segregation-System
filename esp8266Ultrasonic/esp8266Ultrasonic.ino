@@ -7,8 +7,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "Kenny_2.4GHz"; //Change the wifi name here
-char pass[] = "Kenny11011011"; //Change the wifi password here
+char ssid[] = "yourwifiname"; //Change the wifi name here
+char pass[] = "yourpassword"; //Change the wifi password here
 
 BlynkTimer timer;
 
